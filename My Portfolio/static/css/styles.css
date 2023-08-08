@@ -1,0 +1,45 @@
+body {
+    font-family: "EB Garamond", serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d4d4d4;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #f1f4ff;
+    font-size: 24px;
+}
+
+nav li a:hover {
+    color: #90b4c8;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
